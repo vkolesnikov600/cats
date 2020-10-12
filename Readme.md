@@ -1,7 +1,7 @@
 # Учебный проект «Cat Energy»
 
-* Студент: 
-* Наставник: [Nilkolai Leonov](https://htmlacademy.ru/profile/strongardo).
+*  Разработчик#1 [Kolesnikov Vladislav] 
+*  Разработчик#2 [Nilkolai Leonov]
 
 ---
 
